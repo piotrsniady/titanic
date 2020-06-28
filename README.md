@@ -1,1 +1,1 @@
-# titanic - classification
+# Titanic dataset analysis in Python.
